@@ -16,7 +16,6 @@ This repository contains the code and assets for the official PoweringSTEM websi
 ## 🗂 Key Files
 
 - `web.html` – Main landing page for the PoweringSTEM site
-- `website` – Likely accompanying styling or deployment instructions (please rename/clarify if needed)
 - Image assets (logos, sponsors, event banners):
   - `poweringstem.jpg`, `hacks.png`, `prizes.jpg`, `sponsors.jpg`, `taskade.png`, etc.
 
