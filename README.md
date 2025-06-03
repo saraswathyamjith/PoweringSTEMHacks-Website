@@ -21,8 +21,8 @@ This repository contains the code and assets for the official PoweringSTEM websi
 
 ## 🧰 Technologies
 
-- HTML5 for page structure
-- CSS (assumed to be embedded or external)
+- HTML for page structure
+- CSS 
 - Static image hosting for sponsor logos and media
 
 ## 🔧 How to Run Locally
@@ -38,4 +38,4 @@ AoPS, Google, Wolfram, StickerGiant, Echo3D, Khan Academy, Cake, Taskade, and XY
 
 ---
 
-Made with 💡 by the PoweringSTEM team
+
